@@ -5,7 +5,7 @@ Modul pertemuan 1 - 4
 
 ## 🚀 Fitur Aplikasi
 
-- CRUD data anggota (tambah, hapus, Delet)
+- CRUD data anggota (Tambah, Edit, Hapus)
 - invalid-feedback
 
 ---
