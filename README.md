@@ -1,5 +1,6 @@
-# 📚 Tugas web programing ll - Laravel 10 - modul 1 - 4
+# 📚 Tugas web programing ll - Laravel 10
 
+Modul pertemuan 1 - 4
 Aplikasi web sederhana berbasis Laravel 10 untuk mengelola data anggota
 ---
 
