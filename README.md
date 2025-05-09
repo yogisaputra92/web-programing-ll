@@ -5,7 +5,7 @@ Modul pertemuan 1 - 4
 
 ## 🚀 Fitur Aplikasi
 
-- CRUD data anggota (tambah, edit, hapus, lihat)
+- CRUD data anggota (tambah, hapus, Delet)
 - invalid-feedback
 
 ---
@@ -44,6 +44,12 @@ Import file db_crud.sql dari folder web-programing-ll/database/ ke MySQL kamu (v
 ```bash
 php artisan serve
 ```
-Buka browser dan akses http://127.0.0.1:8000.
 
+Buka browser dan akses http://127.0.0.1:8000/helloworld.
+Buka browser dan akses http://127.0.0.1:8000/getlorem.
+Buka browser dan akses http://127.0.0.1:8000/anggota.
 
+### berikut adalah screenshoot output dari tugas ini
+![helloworld](https://github.com/yogisaputra92/web-programing-ll/blob/main/screenshoot/Screenshot%20from%202025-05-09%2014-50-14.png)
+
+![getlorem](https://github.com/yogisaputra92/web-programing-ll/blob/main/screenshoot/Screenshot%20from%202025-05-09%2014-53-02.png)
